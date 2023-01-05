@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Six Caps', sans-serif;
+}
+.megadeth {   
+    margin-left: 540px;
+}
+header{
+    font-size: 100px;
+    margin-left: 300px;
+}
+H1{
+    margin-left: 719px;
+    font-size: 100px;
+}
+ul{
+    font-size: 50px;
+}
+footer{
+    font-size: 70px;
+}
+.dave{
+    margin-left: 400px;
+}
